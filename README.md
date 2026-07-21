@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🔭<br><br>🌱 I’m currently learning LangChain, RAG, Selenium, pytest, Advanced Backend Systems<br><br>👯 I’m looking to collaborate on AI / GenAI projects, Backend systems, QA Automation tools<br><br>🤝 I’m looking for help with RAG pipelines, LangChain, scalable AI systems<br><br>👨‍💻 All of my projects are available at https://github.com/sahana-allurkar<br><br>💬 Ask me about AI APIs, Python, Backend Development, SQL, Debugging<br><br>📫 How to reach me asahana1611@gmail.com<br><br>⚡ Fun fact I build AI apps and debug them faster than I type</p>
+<p align="left"><br><br>🌱 I’m currently learning LangChain, RAG, Selenium, pytest, Advanced Backend Systems<br><br>👯 I’m looking to collaborate on AI / GenAI projects, Backend systems, QA Automation tools<br><br>🤝 I’m looking for help with RAG pipelines, LangChain, scalable AI systems<br><br>👨‍💻 All of my projects are available at https://github.com/sahana-allurkar<br><br>💬 Ask me about AI APIs, Python, Backend Development, SQL, Debugging<br><br>📫 How to reach me asahana1611@gmail.com<br><br>⚡ Fun fact I build AI apps and debug them faster than I type</p>
 
 ###
 
